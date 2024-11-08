@@ -10,14 +10,14 @@ const toolsList = [
         id: 2,
         name: "Dev Collection",
         location: "./devCollection",
-        description: "A comprehensive and detailed collection of development tools and resources, including libraries, frameworks, and best practices for developers.",
+        description: "A comprehensive and detailed collection of development tools and resources, including libraries, frameworks etc.",
         href: "./devCollection/devCol.html"
     },
     {
         id: 3,
         name: "Cyber Sec Collection",
         location: "./cyberSecCollection",
-        description: "A curated and specialized collection of cybersecurity tools and resources, focussing on various aspects of cybersecurity, including penetration testing, vulnerability assessment, and secure coding practices.",
+        description: "A curated and specialized collection of cybersecurity tools and resources, focussing on various aspects of cybersecurity.",
         href: "./cyberSecCollection/cyberSec.html"
     }
 ]

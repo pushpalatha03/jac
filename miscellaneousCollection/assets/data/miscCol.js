@@ -2,16 +2,16 @@ const toolsList = [
     {
         id: 1,
         name: "Blog-Json-Builder",
-        location: "./blog-json-builder",
+        location: "../../blog-json-builder",
         description: "", 
-        href: "./blog-json-builder/blog-json-builder.html"
+        href: "../../blog-json-builder/blog-json-builder.html"
     },
     {
         id: 2,
         name: "Encoder-Decoder-Generator",
-        location: "./encoder-decoder",
+        location: "../../encoder-decoder",
         description: "",
-        href: "./encoder-decoder/encoder-decoder-generator.html"
+        href: "../../encoder-decoder/encoder-decoder-generator.html"
     }
 ]
 
