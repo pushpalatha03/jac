@@ -1,4 +1,4 @@
-import toolsList from "../data/collection.js";
+import toolsList from "../data/cyberSecCol.js";
 
 var cards = document.getElementById("cards");
 toolsList.forEach(tool => {
