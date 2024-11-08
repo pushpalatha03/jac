@@ -1,4 +1,4 @@
-import { fwDataList , fwContentData } from "./collection-data.js";
+import { fwDataList , fwContentData } from "../data/collection-data.js";
 
 
 

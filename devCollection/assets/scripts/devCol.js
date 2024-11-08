@@ -1,4 +1,4 @@
-import { fwDataList } from "./collection-data.js";
+import { fwDataList } from "../data/collection-data.js";
 
 var help = document.getElementById("help");
 help.addEventListener("click", function() {

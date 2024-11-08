@@ -1,10 +1,10 @@
 # Cyber-Sec Collection
 
-This is collection of cyber-sec tools, utilities, scripts, etc. that may be helpful for developers, cybersecurity enthusiasts, and anyone looking for a variety of tools in one place.
+This collection aims to provide a comprehensive set of tools and resources for cybersecurity enthusiasts and professionals. It covers various domains such as penetration testing, vulnerability assessment, secure coding practices, and more. By contributing to this collection, you help create a valuable resource for the cybersecurity community.
 
 Its open for contributions and suggestions. Feel free to add your resources to the collection 😊.
 
-url : 
+url : https://darshanaguru.github.io/jac/cyberSecCollection/cyberSec.html
 
 ## Attribution
 

@@ -5,7 +5,7 @@ helpful for developers, cybersecurity enthusiasts, and anyone looking for a vari
 
 Its open for contributions and suggestions. Feel free to add your resources to the collection 😊.
 
-url : 
+url : https://darshanaguru.github.io/jac/
 
 ## Tools
 

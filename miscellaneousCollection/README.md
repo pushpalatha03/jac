@@ -1,10 +1,10 @@
 # Miscellaneous Collection
 
-This is collection of miscellaneous tools, utilities, scripts, etc. that may be helpful for developers, cybersecurity enthusiasts, and anyone looking for a variety of tools in one place.
+A diverse and extensive collection of various essential tools and resources, covering a wide range of topics and utilities. This repository aims to provide valuable information and tools for developers, designers, and tech enthusiasts, ensuring they have access to a comprehensive set of resources to enhance their projects and workflows.
 
 Its open for contributions and suggestions. Feel free to add your resources to the collection 😊.
 
-url : 
+url : https://darshanaguru.github.io/jac/miscellaneousCollection/misc.html
 
 ## Attribution
 

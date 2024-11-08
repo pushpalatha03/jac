@@ -1,27 +1,18 @@
-# Just a Collection
+# Dev Collection
 
-A collection... some useful and some for fun😉
+This website serves as a comprehensive guide for developers, offering an extensive collection of tools, libraries, frameworks, and best practices. It aims to provide valuable resources to enhance development workflows, improve productivity, and stay updated with the latest trends and technologies in the software development industry.
 
-url : 
+Its open for contributions and suggestions. Feel free to add your resources to the collection 😊.
 
-## Usage
-You can search for the tool or website you want and can have a brief description of it and learn more about it by clicking on the "Learn More" button.
+url : https://darshanaguru.github.io/jac/devCollection/devCol.html
 
-## List
-- UI:
-    - Tailwind CSS
-    - Chakra UI
-    - Bootstrap
-    - Material UI
-    - shadcn UI
 
-- UI Tools:
-    - Uiverse
-    - Flowbite
+## Attribution
 
-- FE - Frameworks:
-    - Next.js
-    - Vue.js
+All rights for external resources used in this project are reserved by their respective owners. Attribution for each resource is provided as comments within the relevant code files, where applicable.
 
-- Build Tools:
-    - vite
+
+## License               
+
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/aguru-darshan/webdev-tools/blob/main/LICENSE) file for details
+
