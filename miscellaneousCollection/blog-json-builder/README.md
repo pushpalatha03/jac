@@ -11,7 +11,7 @@
   ``` 
   Made using tailwindcss for styling and javascript for functionality. The tool is designed to be used on a web browser in desktop mode.
 
-url : 
+url : https://darshanaguru.github.io/jac/miscellaneousCollection/blog-json-builder/blog-json-builder.html
 
 ## Usage
 You can enter your text in the textarea and click on the "Process" button. The json output will be generated and you can copy and paste it.

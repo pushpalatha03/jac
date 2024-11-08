@@ -15,7 +15,6 @@ toolsList.forEach(tool => {
     var cardLink = document.createElement("a");
     cardLink.classList.add("w-full","h-[20%]","text-cyan-400", "hover:tracking-widest", "hover:font-semibold","duration-150", "ease-out","hover:ease-in");
     cardLink.href = tool.href;
-    cardLink.target = "_blank";
     cardLink.innerText = "Have a look?";
     cardBody.appendChild(cardDescription);
     cardBody.appendChild(cardLink);

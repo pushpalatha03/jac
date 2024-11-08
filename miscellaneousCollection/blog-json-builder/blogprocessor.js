@@ -8,7 +8,7 @@ help.addEventListener("click", function() {
  popup.classList.add("absolute", "top-0", "left-0", "w-screen", "h-screen", "bg-black/80","backdrop-blur-md", "flex", "justify-center", "items-center");
  popup.innerHTML = `
  <div class="bg-[#0f0f0f] rounded-lg p-4 w-2/3 h-2/3 flex flex-col gap-2">
- <h1 class="text-white text-2xl font-bold">Help</h1>    
+ <h1 class="text-white text-2xl font-bold text-center">Help</h1>     
  <p class="text-white text-sm">
  This tool is designed to help you build a json output for blogging purposes. It will take your text input and convert it into a json output with the following structure:
  <pre class="text-white">

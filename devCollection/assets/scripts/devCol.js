@@ -10,8 +10,8 @@ help.addEventListener("click", function() {
  popup.classList.add("absolute", "top-0", "left-0", "w-screen", "h-screen", "bg-black/80","backdrop-blur-md", "flex", "justify-center", "items-center");
  popup.innerHTML = `
  <div class="bg-[#0f0f0f] rounded-lg p-4 w-1/3 h-1/3 flex flex-col gap-2">
- <h1 class="text-white text-2xl font-bold">Help</h1>    
- <p class="text-white text-sm">
+  <h1 class="text-white text-2xl font-bold text-center">Help</h1>    
+ <p class="text-white text-sm text-justify">
  This tool is a collection of frameworks, ui-websites, ui-frameworks and build tools for front-end development.<br>You can search for the framework or ui tool you want and <br>
  can have a brief description of it and learn more about it by clicking on the "Learn More" button.<br>
  </p>

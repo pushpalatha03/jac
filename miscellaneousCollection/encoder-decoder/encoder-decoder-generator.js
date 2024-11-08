@@ -8,8 +8,8 @@ help.addEventListener("click", function() {
  popup.classList.add("absolute", "top-0", "left-0", "w-screen", "h-screen", "bg-black/80","backdrop-blur-md", "flex", "justify-center", "items-center");
  popup.innerHTML = `
  <div class="bg-[#0f0f0f] rounded-lg p-4 w-1/3 h-1/3 flex flex-col gap-2">
- <h1 class="text-white text-2xl font-bold">Help</h1>    
- <p class="text-white text-sm">
+ <h1 class="text-white text-2xl font-bold text-center">Help</h1>    
+ <p class="text-white text-sm text-justify">
  This tool is designed to help you encode and decode text or generate a hash-digest or uuid from given text. It will take your text input and convert it into the selected format and give output in the output section.<br>
  You can select the format from the dropdown menu and enter your text in the textarea and click on the "Process" button. The output will be generated and you can copy and paste it.<br>
  </p>
