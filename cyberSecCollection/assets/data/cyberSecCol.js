@@ -4,7 +4,7 @@ const toolsList = [
         name: "CyberSec-Scripts",
         location: "../../cyberSecScripts",
         description: "This is a collection of cybersecurity scripts that can be used for various purposes.", 
-        href: "/cyberSecCollection/cyberSecScripts/cyberSecScripts.html"
+        href: "./cyberSecCollection/cyberSecScripts/cyberSecScripts.html"
     }
 ]
 
