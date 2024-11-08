@@ -9,11 +9,11 @@ url :
 
 ## Tools
 
-1. Miscellaneous Collection - [Miscellaneous Collection]()
+1. Miscellaneous Collection - [Miscellaneous Collection](https://github.com/DarshanAguru/jac/tree/main/miscellaneousCollection)
 
-2. Dev Collection - [Dev Collection]()
+2. Dev Collection - [Dev Collection](https://github.com/DarshanAguru/jac/tree/main/devCollection)
 
-3. Cyber-Sec Collection - [Cyber-Sec Collection]()
+3. Cyber-Sec Collection - [Cyber-Sec Collection](https://github.com/DarshanAguru/jac/tree/main/cyberSecCollection)
 
 
 ## Attribution
