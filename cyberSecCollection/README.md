@@ -8,9 +8,12 @@ url : https://darshanaguru.github.io/jac/cyberSecCollection/
 
 ## Attribution
 
-All rights for external resources used in this project are reserved by their respective owners. Attribution for each resource is provided as comments within the relevant code files, where applicable.
+All rights for external resources used in this project are reserved by their respective owners. Attribution for each resource is provided as comments within the relevant code files, where applicable. Please refer to the [Attribution](https://github.com/DarshanAguru/jac/blob/main/ATTRIBUTION.md) file for more details.
 
+## Code Of Conduct
 
-## License               
+Please note that this project is released with a [Contributor Code of Conduct](https://github.com/DarshanAguru/jac/blob/main/CODE_OF_CONDUCT.md). By participating in this project, you agree to abide by its terms to foster an open and welcoming environment.
 
-This project is licensed under the MIT License - see the [LICENSE](https://github.com/aguru-darshan/webdev-tools/blob/main/LICENSE) file for details
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/DarshanAguru/jac/blob/main/LICENSE) file for more details.
