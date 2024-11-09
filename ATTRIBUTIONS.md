@@ -20,8 +20,9 @@ All rights for external resources used in this project are reserved by their res
 ## CyberSec Collection -- [CyberSec Collection](https://github.com/DarshanAguru/jac/tree/main/cyberSecCollection)
 - CyberSec-Scripts - [CyberSec-Scripts](https://github.com/DarshanAguru/jac/tree/main/cyberSecCollection/cyberSecScripts)
     - FontAwesome - [FontAwesome](https://fontawesome.com/)
-    - TeneBrae93 (scripts) - [TeneBrae93](https://github.com/TeneBrae93/offensivesecurity )
-    - dirkjanm (bloodhound-python) - [bloodhound-python](https://github.com/dirkjanm/BloodHound.py)
+    - bloodhound script - [TeneBrae93](https://github.com/TeneBrae93/offensivesecurity)
+    - vhfuzz script -  [TeneBrae93](https://github.com/TeneBrae93/offensivesecurity)
+    - bloodhound-python - [bloodhound-python](https://github.com/dirkjanm/BloodHound.py)
     - ffuf - [ffuf](https://github.com/ffuf/ffuf)
 
 ## Miscellaneous Collection -- [Miscellaneous Collection](https://github.com/DarshanAguru/jac/tree/main/miscellaneousCollection)
