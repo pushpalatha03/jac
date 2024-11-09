@@ -7,7 +7,7 @@ Its open for contributions and suggestions. Feel free to add your resources to t
 
 url : https://darshanaguru.github.io/jac/
 
-## Tools
+## Collections
 
 1. Miscellaneous Collection - [Miscellaneous Collection](https://github.com/DarshanAguru/jac/tree/main/miscellaneousCollection)
 
