@@ -9,7 +9,7 @@ window.onload = function() {
     var name = url.searchParams.get("name");
     if (name === null || name.trim() === "" || !namearr.includes(name))
     {
-        window.location.replace("./fe-fw-search.html");
+        window.location.replace("./");
     }
     document.title = "Info : " + name[0].toUpperCase() + name.slice(1);
     processMain(name);

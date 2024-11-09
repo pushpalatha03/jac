@@ -4,7 +4,7 @@ A diverse and extensive collection of various essential tools and resources, cov
 
 Its open for contributions and suggestions. Feel free to add your resources to the collection 😊.
 
-url : https://darshanaguru.github.io/jac/miscellaneousCollection/misc.html
+url : https://darshanaguru.github.io/jac/miscellaneousCollection/
 
 ## Attribution
 

@@ -4,7 +4,7 @@ This collection aims to provide a comprehensive set of tools and resources for c
 
 Its open for contributions and suggestions. Feel free to add your resources to the collection 😊.
 
-url : https://darshanaguru.github.io/jac/cyberSecCollection/cyberSec.html
+url : https://darshanaguru.github.io/jac/cyberSecCollection/
 
 ## Attribution
 
