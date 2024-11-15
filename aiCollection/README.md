@@ -3,7 +3,7 @@ This website serves as a comprehensive guide for developers, offering an extensi
 
 Its open for contributions and suggestions. Feel free to add your resources to the collection 😊.
 
-url : https://darshanaguru.github.io/jac/aiCollection/
+url : https://pushpalatha03.github.io/jac/aiCollection/
 
 ## Attribution
 All rights for external resources used in this project are reserved by their respective owners. Attribution for each resource is provided as comments within the relevant code files, where applicable. Please refer to the [Attributions](https://github.com/DarshanAguru/jac/blob/main/ATTRIBUTIONS.md) file for more details.
