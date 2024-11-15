@@ -1,4 +1,4 @@
-# Dev Collection
+# AI Collection
 This website serves as a comprehensive guide for developers, offering an extensive collection of tools, libraries, frameworks, and best practices. It aims to provide valuable resources to enhance development workflows, improve productivity, and stay updated with the latest trends and technologies in the software development industry.
 
 Its open for contributions and suggestions. Feel free to add your resources to the collection 😊.
